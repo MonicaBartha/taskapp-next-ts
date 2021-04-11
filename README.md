@@ -15,4 +15,4 @@ GraphQL, Apollo Server, MySQL, CSS.
 
 ## Deploy on Vercel
 
-![TaskMate](logo.png)
+![TaskMate](/public/logo.png)
