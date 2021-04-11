@@ -13,4 +13,4 @@ GraphQL, Apollo Server, MySQL, CSS.
 
         http://localhost:3000/
 
-![TaskMate](/public/tasks.png)
+![TaskMate](/public/tasks.PNG)
