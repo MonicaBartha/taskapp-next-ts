@@ -13,6 +13,5 @@ GraphQL, Apollo Server, MySQL, CSS.
 
         http://localhost:3000/
 
-## Deploy on Vercel
 
-![TaskMate](/public/logo.png)
+![TaskMate](/public/logo.jpg)
